@@ -20,7 +20,7 @@ if you don't have scrapy installed, run the following command in the terminal:
 pip install scrapy
 ```
 
-Or follow the structions from Scrapy [documentation](https://docs.scrapy.org/en/latest/) if you need further details on how to install it.
+Or follow the instructions from Scrapy [documentation](https://docs.scrapy.org/en/latest/) if you need further details on how to install it.
 
 ## Descrição do Projeto
 
