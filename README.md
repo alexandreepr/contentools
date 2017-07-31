@@ -1,3 +1,5 @@
+Project Descprition	
+
 This web crawler was developed using a framework called Scrapy, specific for web crawling and structured data extraction.
 Basically, it defines the domains that will be covered, the initial requisitions and how to handle the result of these requisitions.
 After this, various forms of data output can be generated, including a .CSV file.
