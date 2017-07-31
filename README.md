@@ -4,7 +4,7 @@ After this, various forms of data output can be generated, including a .CSV file
 
 
 
-#STEPS TO RUN THE PROJECT (if you already have scrapy installed)
+STEPS TO RUN THE PROJECT (if you already have scrapy installed)
 	
 	1. Open the project directory in the terminal
 	2. Type 'scrapy crawl agency -o agencies.csv'
