@@ -17,7 +17,7 @@ Após isso, várias formas de saída de dados podem ser geradas, incluindo um ar
 scrapy crawl agency -o agencies.csv
 ```
 
-if you don't have scrappy installed, run the following command in the terminal:
+if you don't have scrapy installed, run the following command in the terminal:
 
 ```
 pip install scrapy
