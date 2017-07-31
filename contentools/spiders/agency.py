@@ -21,4 +21,4 @@ class AgencySpider(scrapy.Spider): #creates the spider
                 'url': agency.css('.agency-links .link.website a::attr(href)').extract_first()
             }
 
-#In the terminal, go to the project directory and type 'scrapy crawl agencies -o agencies.csv' to run the project
+#In the terminal, go to the project directory and type 'scrapy crawl agency -o agencies.csv' to run the project
