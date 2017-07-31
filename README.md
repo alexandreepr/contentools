@@ -20,7 +20,7 @@ scrapy crawl agency -o agencies.csv
 if you don't have scrappy installed, run the following command in the terminal:
 
 ```
-pip install scrappy
+pip install scrapy
 ```
 
 Or follow the structions from Scrapy [documentation](https://docs.scrapy.org/en/latest/) if you need further details on how to install it.
