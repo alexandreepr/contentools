@@ -43,5 +43,5 @@ se você não tiver o scrapy instaldo, execute o seguinte comando no terminal:
 pip install scrapy
 ```
 
-Ou siga as instruções Scrapy [documentation](https://docs.scrapy.org/en/latest/) se você precisar de mais detalhes na instalação.
+Ou siga as instruções de [documentação](https://docs.scrapy.org/en/latest/) Scrapy se você precisar de mais detalhes na instalação.
 
